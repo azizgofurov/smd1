@@ -1,0 +1,50 @@
+{
+    "logs": [
+        {
+            "outputFile": "uz.ttpu.composearchlab.app-mergeDebugResources-44:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lab\\AndroidStudioProjects\\ComposeArchLab\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "92",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "91",
+                        "endOffsets": "142"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Lab\\.gradle\\daemon\\9.5.0\\uz.ttpu.composearchlab.app-mergeDebugResources-44:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lab\\AndroidStudioProjects\\ComposeArchLab\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "320"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "171"
+                    }
+                }
+            ]
+        }
+    ]
+}

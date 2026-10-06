@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.ttpu.composearchlab.TastePickerViewModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-06T11:53:12.287Z" hostname="406_" time="0.023">
+  <properties/>
+  <testcase name="toggling_like_adds_then_removes_artist" classname="uz.ttpu.composearchlab.TastePickerViewModelTest" time="0.019"/>
+  <testcase name="likes_survive_changing_the_genre_filter" classname="uz.ttpu.composearchlab.TastePickerViewModelTest" time="0.001"/>
+  <testcase name="continue_is_enabled_only_after_three_likes" classname="uz.ttpu.composearchlab.TastePickerViewModelTest" time="0.0"/>
+  <testcase name="selecting_genre_filters_and_tapping_again_clears" classname="uz.ttpu.composearchlab.TastePickerViewModelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
