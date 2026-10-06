@@ -9,7 +9,7 @@ import uz.ttpu.composearchlab.ui.taste.TastePickerViewModel
 class TastePickerViewModelTest {
 
     @Test
-    fun toggling_like_adds_then_removes_artist() {
+    fun task1() {
         val vm = TastePickerViewModel()
 
         vm.onArtistLikeToggled(1)
@@ -20,7 +20,7 @@ class TastePickerViewModelTest {
     }
 
     @Test
-    fun continue_is_enabled_only_after_three_likes() {
+    fun task2() {
         val vm = TastePickerViewModel()
 
         vm.onArtistLikeToggled(1)
@@ -32,7 +32,7 @@ class TastePickerViewModelTest {
     }
 
     @Test
-    fun selecting_genre_filters_and_tapping_again_clears() {
+    fun task3() {
         val vm = TastePickerViewModel()
 
         vm.onGenreClick("Rock")
@@ -44,7 +44,7 @@ class TastePickerViewModelTest {
     }
 
     @Test
-    fun likes_survive_changing_the_genre_filter() {
+    fun task4() {
         val vm = TastePickerViewModel()
 
         vm.onArtistLikeToggled(1)
